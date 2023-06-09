@@ -1,0 +1,333 @@
+[
+    {
+        "id_evento": 1,
+        "titulo": "Concierto en vivo",
+        "organizador": "Música Live",
+        "id_organizador": 1,
+        "foto_organizador": "https://this-person-does-not-exist.com/img/avatar-gen11c3c22425531189b0bfb571fe9acd16.jpg",
+        "edad": 24,
+        "descripcion": "🎺 Disfruta de un emocionante concierto en vivo con bandas locales. 🎷",
+        "imagen_evento": "https://img.freepik.com/foto-gratis/vista-posterior-audiencia-emocionada-brazos-levantados-animando-frente-al-escenario-concierto-musica-espacio-copia_637285-538.jpg",
+        "fecha_hora_inicio": "2023-04-14 09:30:00",
+        "fecha_hora_fin": "2023-04-14 09:30:00",
+        "location": "Teatro Central",
+        "latitud": 40.7128,
+        "longitud": -74.0060,
+        "id_categoria": 1,
+        "categoria": "Música",
+        "num_participantes": 3,
+        "asistentes": [
+            {
+                "id": 1,
+                "nombre": "John Smith",
+                "foto": "participant1.jpg"
+            },
+            {
+                "id": 2,
+                "nombre": "Emily Johnson",
+                "foto": "participant2.jpg"
+            },
+            {
+                "id": 3,
+                "nombre": "Michael Davis",
+                "foto": "participant3.jpg"
+            }
+        ]
+    },
+    {
+        "id_evento": 2,
+        "titulo": "Exposición de arte",
+        "organizador": "Galería Creativa",
+        "id_organizador": 2,
+        "foto_organizador": "https://this-person-does-not-exist.com/img/avatar-gen6195f8528b1f70c63b3f95c603e39475.jpg",
+        "edad": 45,
+        "descripcion": "🖼️ Explora una increíble exposición de arte contemporáneo con diversas obras y estilos. 🎨",
+        "imagen_evento": "https://img.freepik.com/foto-gratis/autorretrato-retrato-mujer-hermosa_23-2148281581.jpg",
+        "fecha_hora_inicio": "2023-04-14 09:30:00",
+        "fecha_hora_fin": "2023-04-14 09:30:00",
+        "location": "Galería de Arte Moderno",
+        "latitud": 40.7120,
+        "longitud": -74.0024,
+        "id_categoria": 2,
+        "categoria": "Arte",
+        "num_participantes": 2,
+        "asistentes": [
+            {
+                "id": 4,
+                "nombre": "Sophia Wilson",
+                "foto": "participant4.jpg"
+            },
+            {
+                "id": 5,
+                "nombre": "Daniel Brown",
+                "foto": "participant5.jpg"
+            }
+        ]
+    },
+    {
+        "id_evento": 3,
+        "titulo": "Conferencia de Marketing Digital",
+        "organizador": "Digital Marketing Hub",
+        "id_organizador": 3,
+        "foto_organizador": "https://this-person-does-not-exist.com/img/avatar-gen11429b2978fc4f3a482c16a88cc0efb2.jpg",
+        "edad": 45,
+        "descripcion": "📈 Únete a nuestra conferencia de marketing digital y descubre las últimas estrategias y tendencias del mundo digital. 💸",
+        "imagen_evento": "https://img.freepik.com/foto-gratis/concepto-marketing-redes-sociales-marketing-aplicaciones_23-2150063134.jpg",
+        "fecha_hora_inicio": "2023-04-14 09:30:00",
+        "fecha_hora_fin": "2023-04-14 09:30:00",
+        "location": "Centro de Convenciones",
+        "latitud": 40.7127,
+        "longitud": -74.0059,
+        "id_categoria": 3,
+        "categoria": "Negocios",
+        "num_participantes": 2,
+        "asistentes": [
+            {
+                "id": 4,
+                "nombre": "Sophia Johnson",
+                "foto": "participant4.jpg"
+            },
+            {
+                "id": 5,
+                "nombre": "Ethan Brown",
+                "foto": "participant5.jpg"
+            }
+        ]
+    },
+    {
+        "id_evento": 4,
+        "titulo": "Festival Gastronómico",
+        "organizador": "Food Lovers",
+        "id_organizador": 4,
+        "foto_organizador": "https://this-person-does-not-exist.com/img/avatar-gen11a55ac509dc870bd7c4548b742ebf05.jpg",
+        "edad": 77,
+        "descripcion": "👩🏻‍🍳🍳 Disfruta de una variedad de deliciosos platillos preparados por reconocidos chefs internacionales.",
+        "imagen_evento": "https://img.freepik.com/fotos-premium/verter-aceite-oliva-tazon_249974-13075.jpg",
+        "fecha_hora_inicio": "2023-04-14 09:30:00",
+        "fecha_hora_fin": "2023-04-14 09:30:00",
+        "location": "Parque Central",
+        "latitud": 40.7179,
+        "longitud": -74.0061,
+        "id_categoria": 4,
+        "categoria": "Gastronomía",
+        "num_participantes": 4,
+        "asistentes": [
+            {
+                "id": 6,
+                "nombre": "Olivia Taylor",
+                "foto": "participant6.jpg"
+            },
+            {
+                "id": 7,
+                "nombre": "William Johnson",
+                "foto": "participant7.jpg"
+            },
+            {
+                "id": 8,
+                "nombre": "Ava Anderson",
+                "foto": "participant8.jpg"
+            },
+            {
+                "id": 9,
+                "nombre": "James Martinez",
+                "foto": "participant9.jpg"
+            }
+        ]
+    },
+    {
+        "id_evento": 5,
+        "titulo": "Carrera benéfica",
+        "organizador": "Run for a Cause",
+        "id_organizador": 5,
+        "foto_organizador": "https://this-person-does-not-exist.com/img/avatar-gen1169e10816dabf82362e173f8d551fc1.jpg",
+        "edad": 35,
+        "descripcion": "Participa en una carrera benéfica y ayuda a recaudar fondos para una causa solidaria.",
+        "imagen_evento": "https://img.freepik.com/free-photo/happy-athletic-women-supporting-each-other-while-running-marathon-nature_637285-6667.jpg?w=1480&t=st=1684788193~exp=1684788793~hmac=cfe2df42515f120d836bf2de053cc9135dd72efee0de54306cdee5fd6f6f1587",
+        "fecha_hora_inicio": "2023-04-14 09:30:00",
+        "fecha_hora_fin": "2023-04-14 09:30:00",
+        "location": "Parque de la Ciudad",
+        "latitud": 40.7137,
+        "longitud": -74.0059,
+        "id_categoria": 5,
+        "categoria": "Deportes",
+        "num_participantes": 1,
+        "asistentes": [
+            {
+                "id": 10,
+                "nombre": "Liam Wilson",
+                "foto": "participant10.jpg"
+            }
+        ]
+    },
+    {
+        "id_evento": 6,
+        "titulo": "Feria de libros",
+        "organizador": "Bookworms",
+        "id_organizador": 6,
+        "foto_organizador": "https://this-person-does-not-exist.com/img/avatar-gen11295dea0888012064e4ce5e88b0d99d.jpg",
+        "edad": 91,
+        "descripcion": "Explora una amplia selección de libros en diferentes géneros y disfruta de charlas con autores reconocidos.",
+        "imagen_evento": "https://img.freepik.com/free-photo/girl-searching-books-bookstore_23-2148171425.jpg?t=st=1684788219~exp=1684788819~hmac=d9fa4e3a92fc005340ee3ecb67e0ceb9225e60e7974d235476f6a20b56c35a8e",
+        "fecha_hora_inicio": "2023-04-14 09:30:00",
+        "fecha_hora_fin": "2023-04-14 09:30:00",
+        "location": "Centro de Convenciones",
+        "latitud": 40.7125,
+        "longitud": -74.0046,
+        "id_categoria": 6,
+        "categoria": "Literatura",
+        "num_participantes": 2,
+        "asistentes": [
+            {
+                "id": 11,
+                "nombre": "Emma Davis",
+                "foto": "participant11.jpg"
+            },
+            {
+                "id": 12,
+                "nombre": "Noah Thompson",
+                "foto": "participant12.jpg"
+            }
+        ]
+    },
+    {
+        "id_evento": 7,
+        "titulo": "Festival de cine",
+        "organizador": "Cinephiles",
+        "id_organizador": 7,
+        "foto_organizador": "https://this-person-does-not-exist.com/img/avatar-gen1129bee4912d3018b36fe47777205f6a.jpg",
+        "edad": 24,
+        "descripcion": "Disfruta de una selección de películas aclamadas y participa en charlas con cineastas destacados.",
+        "imagen_evento": "https://img.freepik.com/free-photo/group-young-people-cinema_23-2148115398.jpg?w=1480&t=st=1684788246~exp=1684788846~hmac=b1aaf29a6c727c1267b022f8900613d47aaaaf0f94e3128609b59628ffaa71bf",
+        "fecha_hora_inicio": "2023-04-14 09:30:00",
+        "fecha_hora_fin": "2023-04-14 09:30:00",
+        "location": "Cine Central",
+        "latitud": 40.7146,
+        "longitud": -74.0052,
+        "id_categoria": 7,
+        "categoria": "Cine",
+        "num_participantes": 3,
+        "asistentes": [
+            {
+                "id": 13,
+                "nombre": "Isabella Moore",
+                "foto": "participant13.jpg"
+            },
+            {
+                "id": 14,
+                "nombre": "Mia Clark",
+                "foto": "participant14.jpg"
+            },
+            {
+                "id": 15,
+                "nombre": "Lucas Walker",
+                "foto": "participant15.jpg"
+            }
+        ]
+    },
+    {
+        "id_evento": 8,
+        "titulo": "Festival de música",
+        "organizador": "Music Fest",
+        "id_organizador": 8,
+        "foto_organizador": "https://this-person-does-not-exist.com/img/avatar-gen1169e10816dabf82362e173f8d551fc1.jpg",
+        "edad": 37,
+        "descripcion": "Vive la emoción de un festival de música con artistas de renombre y géneros variados.",
+        "imagen_evento": "https://img.freepik.com/premium-photo/crowds-enjoying-themselves-outdoor-music-festival_562859-3844.jpg?w=1480",
+        "fecha_hora_inicio": "2023-04-14 09:30:00",
+        "fecha_hora_fin": "2023-04-14 09:30:00",
+        "location": "Estadio Principal",
+        "latitud": 40.7184,
+        "longitud": -74.0048,
+        "id_categoria": 1,
+        "categoria": "Música",
+        "num_participantes": 4,
+        "asistentes": [
+            {
+                "id": 21,
+                "nombre": "Benjamin Young",
+                "foto": "participant21.jpg"
+            },
+            {
+                "id": 22,
+                "nombre": "Avery Harris",
+                "foto": "participant22.jpg"
+            },
+            {
+                "id": 23,
+                "nombre": "Harper Scott",
+                "foto": "participant23.jpg"
+            },
+            {
+                "id": 24,
+                "nombre": "Jackson Walker",
+                "foto": "participant24.jpg"
+            }
+        ]
+    },
+    {
+        "id_evento": 9,
+        "titulo": "Feria de tecnología",
+        "organizador": "Tech Expo",
+        "id_organizador": 9,
+        "foto_organizador": "https://this-person-does-not-exist.com/img/avatar-gen11429b2978fc4f3a482c16a88cc0efb2.jpg",
+        "edad": 24,
+        "descripcion": "Explora las últimas innovaciones y productos tecnológicos en una feria llena de sorpresas y demos interactivas.",
+        "imagen_evento": "https://img.freepik.com/free-photo/people-leaving-shopping-mall_1160-353.jpg?w=1480&t=st=1684788300~exp=1684788900~hmac=f627d2c4eaccc5f9559d022d5a69e6c4523ddbe0a66c5ed8ec4f847ab302f3fb",
+        "fecha_hora_inicio": "2023-04-14 09:30:00",
+        "fecha_hora_fin": "2023-04-14 09:30:00",
+        "location": "Centro de Convenciones",
+        "latitud": 40.7123,
+        "longitud": -74.0058,
+        "id_categoria": 3,
+        "categoria": "Tecnología",
+        "num_participantes": 2,
+        "asistentes": [
+            {
+                "id": 16,
+                "nombre": "Alexander Harris",
+                "foto": "participant16.jpg"
+            },
+            {
+                "id": 17,
+                "nombre": "Sophie Garcia",
+                "foto": "participant17.jpg"
+            }
+        ]
+    },
+    {
+        "id_evento": 10,
+        "titulo": "Exposición de fotografía",
+        "organizador": "Shutterbugs",
+        "id_organizador": 10,
+        "foto_organizador": "https://this-person-does-not-exist.com/img/avatar-gen1129bee4912d3018b36fe47777205f6a.jpg",
+        "edad": 33,
+        "descripcion": "Admira una colección de fotografías excepcionales capturadas por talentosos fotógrafos de todo el mundo.",
+        "imagen_evento": "https://img.freepik.com/free-photo/woman-art-exhibition_53876-14379.jpg?w=1480&t=st=1684788318~exp=1684788918~hmac=4123abd7b6ba3c7e866dbe927d1b85c7bea37ad300180168b8ab77e704a66f15",
+        "fecha_hora_inicio": "2023-04-14 09:30:00",
+        "fecha_hora_fin": "2023-04-14 09:30:00",
+        "location": "Galería de Arte Fotográfico",
+        "latitud": 40.7149,
+        "longitud": -74.0074,
+        "id_categoria": 2,
+        "categoria": "Arte",
+        "num_participantes": 3,
+        "asistentes": [
+            {
+                "id": 18,
+                "nombre": "Scarlett Turner",
+                "foto": "participant18.jpg"
+            },
+            {
+                "id": 19,
+                "nombre": "Henry Lewis",
+                "foto": "participant19.jpg"
+            },
+            {
+                "id": 20,
+                "nombre": "Victoria Hall",
+                "foto": "participant20.jpg"
+            }
+        ]
+    }
+]
+

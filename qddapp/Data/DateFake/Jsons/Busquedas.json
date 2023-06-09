@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "idUser": 1,
+        "date": "2023-05-01T20:00:00Z",
+        "search": "Carreras de coches teledirigidos"
+    },
+    {
+        "id": 2,
+        "idUser": 1,
+        "date": "2023-05-01T20:10:00Z",
+        "search": "Mejores restaurantes italianos en Barcelona"
+    },
+    {
+        "id": 3,
+        "idUser": 2,
+        "date": "2023-05-01T20:15:00Z",
+        "search": "Las mejores playas de México"
+    },
+    {
+        "id": 4,
+        "idUser": 3,
+        "date": "2023-05-01T20:20:00Z",
+        "search": "Ideas para decorar una habitación pequeña"
+    },
+    {
+        "id": 5,
+        "idUser": 2,
+        "date": "2023-05-01T20:30:00Z",
+        "search": "Mejores destinos para hacer senderismo en Europa"
+    },
+    {
+        "id": 6,
+        "idUser": 3,
+        "date": "2023-05-01T20:35:00Z",
+        "search": "Recetas de comida vegana para una cena especial"
+    },
+    {
+        "id": 7,
+        "idUser": 1,
+        "date": "2023-05-01T20:40:00Z",
+        "search": "Cómo reparar un neumático pinchado en casa"
+    },
+    {
+        "id": 8,
+        "idUser": 2,
+        "date": "2023-05-01T20:45:00Z",
+        "search": "Los mejores libros de ciencia ficción del año"
+    },
+    {
+        "id": 9,
+        "idUser": 3,
+        "date": "2023-05-01T20:50:00Z",
+        "search": "Cómo cultivar plantas suculentas en casa"
+    },
+    {
+        "id": 10,
+        "idUser": 1,
+        "date": "2023-05-01T20:55:00Z",
+        "search": "Las mejores apps para aprender idiomas"
+    },
+    {
+        "id": 11,
+        "idUser": 2,
+        "date": "2023-05-01T21:00:00Z",
+        "search": "Cómo hacer una tarta de queso sin horno"
+    },
+    {
+        "id": 12,
+        "idUser": 3,
+        "date": "2023-05-01T21:05:00Z",
+        "search": "Los mejores destinos para hacer turismo rural en España"
+    },
+    {
+        "id": 13,
+        "idUser": 2,
+        "date": "2023-05-01T21:10:00Z",
+        "search": "Cómo crear una página web desde cero"
+    },
+    {
+        "id": 14,
+        "idUser": 1,
+        "date": "2023-05-01T21:05:00Z",
+        "search": "Juego a la petanca"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

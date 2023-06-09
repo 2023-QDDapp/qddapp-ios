@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "user_id": 8,
+        "id_evento": 2,
+        "comentario": "¡Excelente evento!"
+    },
+    {
+        "id": 2,
+        "user_id": 10,
+        "id_evento": 8,
+        "comentario": "Me divertí mucho en este evento."
+    },
+    {
+        "id": 3,
+        "user_id": 2,
+        "id_evento": 4,
+        "comentario": "El evento estuvo un poco aburrido, pero la organización fue buena."
+    },
+    {
+        "id": 4,
+        "user_id": 12,
+        "id_evento": 1,
+        "comentario": "Gran trabajo de los organizadores, ¡felicidades!"
+    },
+    {
+        "id": 5,
+        "user_id": 16,
+        "id_evento": 6,
+        "comentario": "No me gustó mucho este evento, pero espero que mejoren para la próxima vez."
+    },
+    {
+        "id": 6,
+        "user_id": 3,
+        "id_evento": 8,
+        "comentario": "Estuvo muy bien organizado, gracias por la experiencia."
+    },
+    {
+        "id": 7,
+        "user_id": 15,
+        "id_evento": 12,
+        "comentario": "Muy divertido el evento, lo pasé genial."
+    },
+    {
+        "id": 8,
+        "user_id": 5,
+        "id_evento": 2,
+        "comentario": "¡Volvería a asistir a este evento sin duda!"
+    },
+    {
+        "id": 9,
+        "user_id": 20,
+        "id_evento": 7,
+        "comentario": "No estuvo mal, pero esperaba un poco más de diversión."
+    },
+    {
+        "id": 10,
+        "user_id": 1,
+        "id_evento": 11,
+        "comentario": "¡Este evento fue impresionante, no puedo esperar al siguiente!"
+    },
+    {
+        "id": 11,
+        "user_id": 7,
+        "id_evento": 3,
+        "comentario": "Excelente evento, todo estuvo perfecto."
+    },
+    {
+        "id": 12,
+        "user_id": 18,
+        "id_evento": 14,
+        "comentario": "No estuvo mal, pero esperaba un poco más de diversión."
+    },
+    {
+        "id": 13,
+        "user_id": 13,
+        "id_evento": 2,
+        "comentario": "El evento fue increíble, ¡me encantó!"
+    },
+    {
+        "id": 14,
+        "user_id": 4,
+        "id_evento": 9,
+        "comentario": "No fue exactamente lo que esperaba, pero estuvo bien organizado."
+    },
+    {
+        "id": 15,
+        "user_id": 6,
+        "id_evento": 12,
+        "comentario": "El evento estuvo bien, pero la música no era de mi estilo."
+    },
+    {
+        "id": 16,
+        "user_id": 19,
+        "id_evento": 7,
+        "comentario": "Gran evento, los organizadores hicieron un gran trabajo."
+    },
+    {
+        "id": 17,
+        "user_id": 11,
+        "id_evento": 6,
+        "comentario": "No disfruté mucho este evento, pero aprecio el esfuerzo de los organizadores."
+    },
+    {
+        "id": 18,
+        "user_id": 9,
+        "id_evento": 4,
+        "comentario": "El evento estuvo bien, pero no era lo que esperaba."
+    },
+    {
+        "id": 19,
+        "user_id": 14,
+        "id_evento": 8,
+        "comentario": "Estuvo muy bien organizado, pero la comida podría haber sido mejor."
+    },
+    {
+        "id": 20,
+        "user_id": 17,
+        "id_evento": 10,
+        "comentario": "El evento fue increíble, ¡espero poder asistir al próximo!"
+    },
+    {
+        "id": 21,
+        "user_id": 3,
+        "id_evento": 7,
+        "comentario": "El evento estuvo genial, ¡gracias por hacerlo posible!"
+    },
+    {
+        "id": 22,
+        "user_id": 15,
+        "id_evento": 2,
+        "comentario": "No estuvo mal, pero la ubicación no era la mejor."
+    },
+    {
+        "id": 23,
+        "user_id": 8,
+        "id_evento": 12,
+        "comentario": "El evento fue increíble, me encantó la variedad de actividades."
+    },
+    {
+        "id": 24,
+        "user_id": 10,
+        "id_evento": 5,
+        "comentario": "Fue una experiencia única, definitivamente volvería a asistir."
+    },
+    {
+        "id": 25,
+        "user_id": 13,
+        "id_evento": 1,
+        "comentario": "El evento fue perfecto, todo estaba bien organizado."
+    },
+    {
+        "id": 26,
+        "user_id": 2,
+        "id_evento": 10,
+        "comentario": "El evento fue divertido, pero me hubiera gustado que durara más tiempo."
+    },
+    {
+        "id": 27,
+        "user_id": 5,
+        "id_evento": 14,
+        "comentario": "Fue un evento muy interesante, aprendí muchas cosas nuevas."
+    },
+    {
+        "id": 28,
+        "user_id": 19,
+        "id_evento": 3,
+        "comentario": "El evento fue impresionante, no puedo esperar al siguiente."
+    },
+    {
+        "id": 29,
+        "user_id": 1,
+        "id_evento": 9,
+        "comentario": "Estuvo bien, pero hubiera preferido que hubiera más variedad de comida."
+    },
+    {
+        "id": 30,
+        "user_id": 16,
+        "id_evento": 8,
+        "comentario": "El evento estuvo increíble, me sorprendió gratamente."
+    },
+    {
+        "id": 31,
+        "user_id": 9,
+        "id_evento": 6,
+        "comentario": "Me encantó el evento, los organizadores hicieron un gran trabajo."
+    },
+    {
+        "id": 32,
+        "user_id": 14,
+        "id_evento": 3,
+        "comentario": "Estuvo bien, pero hubiera preferido que la música fuera más variada."
+    },
+    {
+        "id": 33,
+        "user_id": 6,
+        "id_evento": 13,
+        "comentario": "El evento fue muy divertido, gracias por la experiencia."
+    },
+    {
+        "id": 34,
+        "user_id": 12,
+        "id_evento": 4,
+        "comentario": "Fue una experiencia interesante, aunque había demasiada gente."
+    },
+    {
+        "id": 35,
+        "user_id": 18,
+        "id_evento": 15,
+        "comentario": "El evento estuvo bien, pero esperaba más actividades."
+    },
+    {
+        "id": 36,
+        "user_id": 7,
+        "id_evento": 11,
+        "comentario": "Me encantó el evento, la temática fue muy original."
+    },
+    {
+        "id": 37,
+        "user_id": 4,
+        "id_evento": 8,
+        "comentario": "Estuvo bien organizado, pero el lugar era un poco pequeño para tanta gente."
+    },
+    {
+        "id": 38,
+        "user_id": 17,
+        "id_evento": 1,
+        "comentario": "No me gustó mucho el evento, esperaba algo más emocionante."
+    },
+    {
+        "id": 39,
+        "user_id": 2,
+        "id_evento": 12,
+        "comentario": "Fue una experiencia única, gracias por la oportunidad de asistir."
+    },
+    {
+        "id": 40,
+        "user_id": 11,
+        "id_evento": 5,
+        "comentario": "El evento estuvo genial, me encantó la variedad de actividades."
+    },
+    {
+        "id": 41,
+        "user_id": 2,
+        "id_evento": 5,
+        "comentario": "El evento estuvo genial, ¡gracias por organizarlo!"
+    },
+    {
+        "id": 42,
+        "user_id": 3,
+        "id_evento": 7,
+        "comentario": "Muy buen ambiente en el evento, la música y la comida estuvieron excelentes."
+    },
+    {
+        "id": 43,
+        "user_id": 4,
+        "id_evento": 8,
+        "comentario": "¡Increíble evento! Disfruté mucho de la compañía y de las actividades."
+    },
+    {
+        "id": 44,
+        "user_id": 1,
+        "id_evento": 6,
+        "comentario": "Gracias por el evento, me lo pasé súper bien. ¡Repetiría sin dudarlo!"
+    },
+    {
+        "id": 45,
+        "user_id": 9,
+        "id_evento": 12,
+        "comentario": "El evento estuvo muy bien organizado y las actividades fueron muy divertidas."
+    },
+    {
+        "id": 46,
+        "user_id": 10,
+        "id_evento": 14,
+        "comentario": "Excelente evento, me encantó la temática y las sorpresas que prepararon."
+    },
+    {
+        "id": 47,
+        "user_id": 11,
+        "id_evento": 13,
+        "comentario": "Muy buen evento, disfruté mucho de la música en vivo y de las bebidas."
+    },
+    {
+        "id": 48,
+        "user_id": 15,
+        "id_evento": 2,
+        "comentario": "Gracias por el evento, me divertí mucho con las actividades y la comida estuvo deliciosa."
+    },
+    {
+        "id": 49,
+        "user_id": 12,
+        "id_evento": 3,
+        "comentario": "Buen evento, disfruté mucho de los talleres y de la gente que conocí."
+    },
+    {
+        "id": 50,
+        "user_id": 14,
+        "id_evento": 4,
+        "comentario": "Excelente evento, me encantó la variedad de actividades y la calidad de los productos ofrecidos."
+    },
+    {
+        "id": 51,
+        "user_id": 13,
+        "id_evento": 1,
+        "comentario": "Muy buen evento, me gustó mucho la temática y la decoración."
+    },
+    {
+        "id": 52,
+        "user_id": 5,
+        "id_evento": 9,
+        "comentario": "Excelente evento, la organización fue impecable y la música estuvo genial."
+    },
+    {
+        "id": 53,
+        "user_id": 7,
+        "id_evento": 11,
+        "comentario": "Gracias por el evento, disfruté mucho de las bebidas y la música en vivo estuvo increíble."
+    },
+    {
+        "id": 54,
+        "user_id": 9,
+        "id_evento": 18,
+        "comentario": "El evento fue la ostia, ¡volveré a visitar los eventos que organices!"
+    },
+    {
+        "id": 55,
+        "user_id": 7,
+        "id_evento": 9,
+        "comentario": "Gran evento, disfruté mucho la experiencia."
+    },
+    {
+        "id": 56,
+        "user_id": 3,
+        "id_evento": 9,
+        "comentario": "Excelente organización del evento, todo estuvo muy bien planeado y la atención al público fue excelente."
+    },
+    {
+        "id": 57,
+        "user_id": 8,
+        "id_evento": 7,
+        "comentario": "El evento fue espectacular, me encantó el ambiente y la variedad de actividades que ofrecieron."
+    },
+    {
+        "id": 58,
+        "user_id": 12,
+        "id_evento": 1,
+        "comentario": "La verdad que no me gustó mucho el evento, la música estaba muy alta y no se podía ni hablar. Además, había demasiada gente y se hacía difícil moverse por el lugar."
+    },
+    {
+        "id": 59,
+        "user_id": 10,
+        "id_evento": 4,
+        "comentario": "Increíble el evento, me divertí mucho y conocí a gente súper interesante. Definitivamente volvería a asistir."
+    },
+    {
+        "id": 60,
+        "user_id": 6,
+        "id_evento": 13,
+        "comentario": "Muy buena iniciativa la del evento, pero deberían tener en cuenta mejorar la calidad de los alimentos que ofrecen."
+    },
+    {
+        "id": 61,
+        "user_id": 2,
+        "id_evento": 11,
+        "comentario": "Me encantó el evento, fue una experiencia muy enriquecedora y aprendí muchas cosas nuevas. Sin duda lo recomiendo."
+    },
+    {
+        "id": 62,
+        "user_id": 14,
+        "id_evento": 5,
+        "comentario": "No me gustó el evento, había pocos stands y la oferta de productos era muy limitada. Me esperaba algo mucho mejor."
+    },
+    {
+        "id": 63,
+        "user_id": 9,
+        "id_evento": 8,
+        "comentario": "Me pareció un evento muy interesante, me gustó mucho la temática y la variedad de actividades que ofrecían."
+    },
+    {
+        "id": 64,
+        "user_id": 7,
+        "id_evento": 10,
+        "comentario": "El evento estuvo bastante bien, pero había demasiada gente y era difícil acceder a algunos de los stands."
+    },
+    {
+        "id": 65,
+        "user_id": 1,
+        "id_evento": 12,
+        "comentario": "El evento estuvo bien, pero no me gustó mucho la música que pusieron. Deberían tener en cuenta los gustos de todo el público."
+    },
+    {
+        "id": 66,
+        "user_id": 4,
+        "id_evento": 8,
+        "comentario": "Muy bien organizado, la pasé genial."
+    },
+    {
+        "id": 67,
+        "user_id": 10,
+        "id_evento": 1,
+        "comentario": "Increíble evento, definitivamente volvería a asistir."
+    },
+    {
+        "id": 68,
+        "user_id": 12,
+        "id_evento": 3,
+        "comentario": "Excelente ambiente y buena música, me encantó."
+    },
+    {
+        "id": 69,
+        "user_id": 6,
+        "id_evento": 14,
+        "comentario": "El evento estuvo bien, pero esperaba más variedad de comida."
+    },
+    {
+        "id": 70,
+        "user_id": 11,
+        "id_evento": 5,
+        "comentario": "Fue una experiencia única, definitivamente recomendado."
+    },
+    {
+        "id": 71,
+        "user_id": 2,
+        "id_evento": 19,
+        "comentario": "Gran trabajo por parte de los organizadores, todo estuvo impecable."
+    },
+    {
+        "id": 72,
+        "user_id": 18,
+        "id_evento": 15,
+        "comentario": "No cumplió mis expectativas, esperaba más actividades."
+    },
+    {
+        "id": 73,
+        "user_id": 13,
+        "id_evento": 20,
+        "comentario": "Buen evento en general, pero el sonido estaba un poco alto."
+    },
+    {
+        "id": 74,
+        "user_id": 16,
+        "id_evento": 17,
+        "comentario": "Disfruté mucho el evento, los artistas fueron increíbles."
+    },
+    {
+        "id": 75,
+        "user_id": 20,
+        "id_evento": 6,
+        "comentario": "La decoración y el ambiente eran geniales, sin embargo, las bebidas eran un poco caras."
+    }
+]

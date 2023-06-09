@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "74FD1A11-E567-40D6-8C58-F26C3DE4528D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "791DFD27-C99C-4404-85E9-F64693B92C52"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qddapp/Managers/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "get(endPoint:token:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BCB5599-617B-4933-8413-0D96971FA4EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qddapp/Features/EventDetail/EventDetailRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "requestToJoinTheEvent(idEvent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7BCB5599-617B-4933-8413-0D96971FA4EC - 5491c6d4435c8352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.getEventToUserRelationship(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.EventUserRelationModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "7BCB5599-617B-4933-8413-0D96971FA4EC - cc3bca852793b412"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.requestToJoinTheEvent(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.ResponseJoinEventModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "520">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qddapp/Features/EventDetail/EventDetailRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "requestToJoinTheEvent(idEvent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - 85fa4d7e869cb8b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.getEventToUserRelationship(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.EventUserRelationModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - 22315f111b3ea3a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for qddapp.EventDetailRepositoryApiRest.getEventToUserRelationship(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.EventUserRelationModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - a4699eedd46664bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.getEventToUserRelationship(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.EventUserRelationModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - 5491c6d4435c82f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.getEventToUserRelationship(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.EventUserRelationModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - 5491c6d4435c82bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.getEventToUserRelationship(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.EventUserRelationModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - d1ca9f2ec87e7bf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.requestToJoinTheEvent(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.ResponseJoinEventModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - a4542cd72de59fdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for qddapp.EventDetailRepositoryApiRest.requestToJoinTheEvent(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.ResponseJoinEventModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - 6835a1e8028707ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.requestToJoinTheEvent(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.ResponseJoinEventModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - 6835a1e8028707fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.requestToJoinTheEvent(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.ResponseJoinEventModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - cc3bca852793b5b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.requestToJoinTheEvent(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.ResponseJoinEventModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "82D9C6EC-C76C-4A8F-9B61-8CE6AFE88DC3 - cc3bca852793b5ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for qddapp.EventDetailRepositoryApiRest.requestToJoinTheEvent(idEvent: qddapp.RequestIdBodyModel) async -&gt; qddapp.ResponseJoinEventModel"
+                  moduleName = "qddapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/ALMACEN/01_TRABAJO/00_PROGRAMACION/01_ESTUDIO/00_Estech/00_Escuela/Asignaturas/iOS/02_Ejercicios/00_Proyecto/qddapp/qddapp/Features/EventDetail/EventDetailRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
